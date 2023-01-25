@@ -22,7 +22,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂😂😂
-<img src="https://i.gifer.com/66Uj.gif" width="512px"/>
+![gifTester](https://user-images.githubusercontent.com/84717035/214561186-bab11313-5e8e-4022-bced-a487bfb20f05.gif)
 
----
-[![](https://visitcount.itsvg.in/api?id=MelihDemirtel&icon=0&color=1)](https://visitcount.itsvg.in)
