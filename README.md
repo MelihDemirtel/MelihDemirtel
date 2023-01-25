@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MelihDemirtel<br>👀 I’m interested in digital technology...<br>🌱 I’m currently learning to be the best test engineer...<br>💞️ I’m looking to collaborate on Test Engineering...<br>📫 How to reach me... turkcelltest7194@gmail.com<br>⚡ Fun fact: I love watching Japanese animes 
+👋 Hi, I’m @MelihDemirtel<br>👀 I’m interested in digital technology...<br>🌱 I’m currently learning to be the best test engineer...<br>💞️ I’m looking to collaborate on Test Engineering...<br>📫 How to reach me... melihcandemirtel+github@gmail.com<br>⚡ Fun fact: I love watching Japanese animes 
 
 
 ## 🌐 Socials:
