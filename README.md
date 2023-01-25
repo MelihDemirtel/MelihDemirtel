@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂😂😂
-<img src="[https://random-memer.herokuapp.com/](https://random-memer.herokuapp.com/)" width="512px"/>
+<img src="[https://random-memer.herokuapp.com/](https://random-memer.herokuapp.com/)](https://i.gifer.com/fetch/w300-preview/16/161729dd20b2548b478c97705d0adc73.gif)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MelihDemirtel&icon=0&color=1)](https://visitcount.itsvg.in)
